@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+     <meta charset="UTF-8">
+     <meta name="keywords" content="html, homework">
+     <meta name="description" content="homework 1 for cis122">
+     <link rel="stylesheet" type="text/css" href="css/style-1.css">
+     <title>Client/Server model</title>
+</head>
+
+<body>
+
+<h1>Client/Server Computing</h1>
+
+<p>By: Jerome</p>
+
+<h2>What is the client/server model?</h2>
+
+<p>The client/server model acts as a core network which provides a service to clients using the web. These services could include web-browsers, gaming software, email software, and online shopping along with many other things. The clients request data from the service providers.</p>
+
+<h2>Advantages of the client/server model</h2>
+
+<p>Major advantages of the client/server model are</p>
+
+<ol>
+	<li>Security:Providing security to the clients so they don't have forign users accessing their data but also making sure clients change their passwords regularly. 
+	<li>Management: Clients are able to make sure that the software they use will be managed correctly by keeping constant updates and patches, but also making sure it is secure and has backups.s
+	<li>Accessibility: Making sure the client can access the servers
+</ol>
+
+<h2>Examples of client/server software</h2>
+
+<table>
+
+	<tr>
+		<th>Software</th>
+		<th>Client</th>
+		<th>Server</th>
+	</tr>
+	<tr>
+		<td>Web</td>
+		<td>Firefox</td>
+		<td>Apache</td>
+	</tr>
+	<tr>
+		<td>Email</td>
+		<td>Outlook</td>
+		<td>MS Exchange</td>
+	</tr>
+	<tr>
+		<td>FTP</td>
+		<td>FileZilla</td>
+		<td>FileZilla</td>
+	</tr>
+	<tr>
+		<td>Web Development/Coding</td>
+		<td>Html</td>
+		<td>Php</td>
+	</tr>
+	<tr>
+		<td>Database</td>
+		<td>Access</td>
+		<td>Oracle</td>
+	</tr>
+</table>
+<h2>Examples of TCP/IP protocols</h2>
+
+<ul>
+	<li>FTP:FileZilla,Cyberduck,WinSCP
+	<li>HTTP:Is an application protocol for distributed, collaborative, and hypermedia information systems
+	<li>HTTPS:Its more secure than HTTP
+	<li>DHCP:Is a client/server protocol that automatically provides an Internet Protocol host with its IP address and other related configuration information such as the subnet mask and default gateway.
+	<li>SMPT:Emails like Hotmail,Outlook,Yahoo
+</ul>
+
+<h2>Examples of Network Utilities and Services</h2>
+<ul>
+    <li>Ping:is a computer network administration software utility used to test the reachability of a host.
+	<li>Tracert:Is a computer network diagnostic tool for displaying the route and measuring transit delays of packets
+	<li>Pathping:Is a command-line tool that provides useful information about network latency and network loss at intermediate hops between a source address and a destination address.
+	<li><a href="https://whois.icann.org/en">Whois</a>:Is a query and response protocol that is widely used for querying databases that store the registered users or assignees of an Internet resource, such as a domain name
+	<li>IPConfig:Command line utility will show detailed information about the network you are connected to.
+</ul>
+<h2>Examples of Network Utilities and Absolute Addresses</h2>
+<table>
+	<tr>
+		<th>Absolute Address</th>
+		<th>Relative Address</th>
+	</tr>
+	<tr>
+		<td>https://foursquare.com/about</td>
+		<td>style/css </td>
+	</tr>
+	<tr>
+		<td>https://dariusforoux.com/extrapolating-perceptions/</td>
+		<td>css/style.css </td>
+	</tr>
+	<tr>
+		<td>https://www.flickr.com/about</td>
+		<td>css/v2/style.css</td>
+	</tr>
+</table>
+</body>
+</html>
